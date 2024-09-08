@@ -2,10 +2,7 @@
 
 My Personal Portfolio website made with Flutter 🍃🍒❤️
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](#)
-
-
-![Project Thumbnail](assets/images/thumbnails/portfolio_thumbnail.png)
+Cloned from [Ye Lwin Oo](https://github.com/YeLwinOo-Steve/ye-lwin-oo)
 
 ## 📑 Overview
 
@@ -29,10 +26,6 @@ This is my personal portfolio website v1 built with Flutter - available for mult
 
 ### 🪪 Project License:
 This project is licensed under [BSD 3-Clause License](LICENSE).
-
-### Want a short preview?
-
-![Walkghrough video](assets/images/thumbnails/portfolio_peek.gif)
 
 
 Feel free to check it out and give it a ⭐ if you like it. 
